@@ -14,7 +14,7 @@ if menu == "Home":
     st.title("Welcome to My Portfolio!")
     st.write("Hello, I am **Atik Zafar**, an aspiring UPSC student with a passion for data science, marketing, and leadership.")
     st.write("This portfolio showcases my journey, achievements, and projects.")
-    st.image("https://drive.google.com/file/d/1VCXlHAbjIlZmXwwZRIulMBY18QOC9jFZ/view?usp=sharing", caption="", use_column_width=True)
+    st.image("drive.google.com/uc?id=1VCXlHAbjIlZmXwwZRIulMBY18QOC9jFZ", caption="", use_column_width=True)
 
 # About Me
 elif menu == "About Me":
@@ -30,7 +30,8 @@ elif menu == "About Me":
         
         I have experience in designing marketing strategies, organizing career development programs, and working on sustainability projects. I'm also working on an innovative project to create ink from soot collected from silencers.
     """)
-    st.image("https://i.postimg.cc/T33hwxNn/Screenshot-2025-02-14-at-3-24-13-PM.png", caption="Atik Zafar", width=200)
+    st.image("st.image("https://drive.google.com/uc?id=1VCXlHAbjIlZmXwwZRIulMBY18QOC9jFZ", caption="Atik Zafar", use_column_width=True)
+", caption="Atik Zafar", width=200)
 
 # Resume
 elif menu == "Resume":
